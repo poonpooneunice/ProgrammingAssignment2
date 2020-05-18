@@ -1,3 +1,5 @@
+This is the second programming assignment for John Hopkins University's "R Programming" course, offered through Coursera. The course is part of the Data Science Specialization track. Below is a brief on this assignment.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
